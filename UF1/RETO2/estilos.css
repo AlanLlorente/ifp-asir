@@ -1,0 +1,18 @@
+.titulo {
+    background-color: grey;
+}
+
+.par{
+    background-color: white;
+}
+.impar{
+    background-color: grey;
+}
+
+.imagen{
+    border-left: 10px solid #000000;
+}
+
+.lista{
+    color: #E3E3E3;
+}
