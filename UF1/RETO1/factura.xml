@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE facturas SYSTEM "validarfactura.dtd">
+<facturas>
+    <factura>
+        <numero>1</numero>
+        <fecha>2022-01-01</fecha>
+        <datos_emisor>
+            <nombre>Microsegur</nombre>
+            <cif>B79995809</cif>
+            <telefono>916293107</telefono>
+        </datos_emisor>
+        <datos_cliente>
+            <nombre>Solaer</nombre>
+            <cif>B79995803</cif>
+            <telefono>916293106</telefono>
+        </datos_cliente>
+        <detalle_factura>
+            <importe>1499,99</importe>
+            <linea>
+                <codigo>19</codigo>
+                <descripcion>DS-2TD2636B-15/P</descripcion>
+                <cantidad>1</cantidad>
+                <oferta></oferta>
+                <pvp>1499,99</pvp>
+            </linea>
+        </detalle_factura>
+    </factura>
+    <factura>
+        <numero>2</numero>
+        <fecha>2022-02-02</fecha>
+        <datos_emisor>
+            <nombre>Microsegur</nombre>
+            <cif>B79995809</cif>
+            <telefono>916293107</telefono>
+        </datos_emisor>
+        <datos_cliente>
+            <nombre>PAI</nombre>
+            <cif>B79995801</cif>
+            <telefono>916293167</telefono>
+        </datos_cliente>
+        <detalle_factura>
+            <importe>500,00</importe>
+            <linea>
+                <codigo>1</codigo>
+                <descripcion>Central Risco</descripcion>
+                <cantidad>1</cantidad>
+                <oferta></oferta>
+                <pvp>500,00</pvp>
+            </linea>
+        </detalle_factura>
+    </factura>
+    <factura>
+        <numero>3</numero>
+        <fecha>2022-02-018</fecha>
+        <datos_emisor>
+            <nombre>Microsegur</nombre>
+            <cif>B79995809</cif>
+            <telefono>916293107</telefono>
+        </datos_emisor>
+        <datos_cliente>
+            <nombre>LP</nombre>
+            <cif>B79995092</cif>
+            <telefono>916293128</telefono>
+        </datos_cliente>
+        <detalle_factura>
+            <importe>150,00</importe>
+            <linea>
+                <codigo>99</codigo>
+                <descripcion>Soporte remoto</descripcion>
+                <cantidad>1</cantidad>
+                <oferta></oferta>
+                <pvp>150,00</pvp>
+            </linea>
+        </detalle_factura>
+    </factura>
+</facturas>
