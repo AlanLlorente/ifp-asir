@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pais xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="francia.xsd">
+    <nombre>Francia</nombre>
+    <poblacion>67 millones</poblacion>
+    <continente>Europa</continente>
+    <nombre_capital>Paris</nombre_capital>
+    <coordenadas>
+        <latitud>46.227638</latitud>
+        <longitud>2.213749</longitud>
+    </coordenadas>
+    <fotografias>
+        <foto>
+            <nombre>Torre eiffel</nombre>
+            <descripcion>Foto de la torre eiffel</descripcion>
+            <url>https://pbs.twimg.com/media/EAfs5ADW4AA7mZP?format=jpg</url>
+        </foto>
+        <foto>
+            <nombre>Baguette</nombre>
+            <descripcion>Foto de la comida tipica</descripcion>
+            <url>https://www.annarecetasfaciles.com/files/baguettes.jpg</url>
+        </foto>
+    </fotografias>
+    <costa>true</costa>
+</pais>

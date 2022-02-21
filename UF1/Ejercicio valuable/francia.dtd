@@ -1,0 +1,13 @@
+<!ELEMENT pais (nombre, poblacion, continente, nombre_capital, coordenadas, fotografias, costa)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT poblacion (#PCDATA)>
+<!ELEMENT continente (#PCDATA)>
+<!ELEMENT nombre_capital (#PCDATA)>
+<!ELEMENT coordenadas (latitud, longitud)>
+<!ELEMENT latitud (#PCDATA)>
+<!ELEMENT longitud (#PCDATA)>
+<!ELEMENT fotografias (foto+)>
+<!ELEMENT foto (nombre, descripcion, url)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT url (#PCDATA)>
+<!ELEMENT costa (#PCDATA)>
