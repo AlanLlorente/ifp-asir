@@ -10,4 +10,4 @@
 <!ELEMENT foto (nombre, descripcion, url)>
 <!ELEMENT descripcion (#PCDATA)>
 <!ELEMENT url (#PCDATA)>
-<!ELEMENT costa (#PCDATA)>
+<!ELEMENT costa (Si|No)>
