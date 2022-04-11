@@ -1,0 +1,11 @@
+<!ELEMENT rss (title, description, link, lenguage, ttl, item+)>
+<!ATTLIST rss version CDATA "2.0">
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT link (#PCDATA)>
+<!ELEMENT lenguage (#PCDATA)>
+<!ELEMENT ttl (#PCDATA)>
+<!ELEMENT item (title, descripcion, autor, categoria, link)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT categoria (#PCDATA)>

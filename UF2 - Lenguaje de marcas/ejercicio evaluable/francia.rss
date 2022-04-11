@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss PUBLIC "public-id" "franciarss.dtd">
+<rss version="2.0">
+    <title>Francia</title>
+    <description>Un RSS de noticias sobre francia</description>
+    <link>https://unblogdenoticias.com</link>
+    <lenguage>ES-es</lenguage>
+    <ttl>60</ttl>
+    <item>
+        <title>Donde comer la mejor baggett de francia</title>
+        <descripcion>Para comer la mejor baggett de francia...</descripcion>
+        <autor>Pedro Miguel</autor>
+        <categoria>Comida</categoria>
+        <link>https://unblogdenoticias.com/comida/comer-baggett</link>
+    </item>
+    <item>
+        <title>Francia pierde ante España de nuevo</title>
+        <descripcion>La Roja ha vuelto a ganar a francia...</descripcion>
+        <autor>Manolo el del bombo</autor>
+        <categoria>Deportes</categoria>
+        <link>https://unblogdenoticias.com/deportes/laroja-francia</link>
+    </item>
+    <item>
+        <title>Alonso de nuevo delante de Ocon en la su carrera de casa</title>
+        <descripcion>Alonso ha vuelto a ganar a Ocon, quedando 1 y 10 respectivamente...</descripcion>
+        <autor>Antonio Lobato</autor>
+        <categoria>Motor</categoria>
+        <link>https://unblogdenoticias.com/motor/magicalonso</link>
+    </item>
+    <item>
+        <title>La replica de la torre Eiffel que no esperabas</title>
+        <descripcion>Un multimillonario ha hecho una replica de la torre Eiffel en las vegas y es mejor que la original</descripcion>
+        <autor>Richar Weiggan</autor>
+        <categoria>Actualidad</categoria>
+        <link>https://unblogdenoticias.com/actualidad/torreeiffel</link>
+    </item>
+    <item>
+        <title>Ibai supera en viewers a Kameto</title>
+        <descripcion>Ibai, el rey del streaming en españa supera en viewers a Kameto durante /r/place</descripcion>
+        <autor>BlopGG</autor>
+        <categoria>Influencers</categoria>
+        <link>https://unblogdenoticias.com/influencers/ibai-kameto</link>
+    </item>
+</rss>
